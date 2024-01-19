@@ -1,0 +1,25 @@
+{
+  "name": "react",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "leaflet": "1.9.4",
+    "leaflet.markercluster": "1.5.3",
+    "prop-types": "15.8.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-feather": "^2.0.10",
+    "react-leaflet": "4.2.1",
+    "react-leaflet-markercluster": "2.0.0",
+    "react-simple-maps": "3.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
